@@ -8,14 +8,6 @@ Welcome to 5Tech Center. We are developing Windows applications, these includes 
 
 We're also specializes in creating and improving websites, doing WordPress development, setting up a website, rewriting & redirecting URLs, server configurations and more related about web development.
 
-{% highlight ruby %}
-def print_hello(name)
-  puts "Hello #{name}!"
-end
-print_hello('World')
-#=> prints 'Hello World!' to STDOUT.
-{% endhighlight %}
-
 We are offering domain name registration & web hosting services and a **RESELLER PROGRAM** that's fully-funded and more! We will also talk information related about technology.
 
 If you have any questions or want to follow us, just contact us using the provided information or through our social media pages. Tour to our site to see what makes you interested on our stuffs. Have a nice day!
