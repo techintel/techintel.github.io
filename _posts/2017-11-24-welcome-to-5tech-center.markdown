@@ -18,4 +18,4 @@ print_hello('World')
 
 We are offering domain name registration & web hosting services and a **RESELLER PROGRAM** that's fully-funded and more! We will also talk information related about technology.
 
-If you have any questions or want to follow us, you can reach us here or through our social media pages. You can also tour to our site to see what makes you interested on our stuffs. Have a nice day!
+If you have any questions or want to follow us, just contact us using the provided information or through our social media pages. Tour to our site to see what makes you interested on our stuffs. Have a nice day!
