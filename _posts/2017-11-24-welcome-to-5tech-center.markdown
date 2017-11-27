@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to 5Tech Center!"
 date:   2017-11-24 23:20:31 +0800
-categories: jekyll update hello
+categories: update
 ---
 Welcome to 5Tech Center. We are developing Windows applications, these includes web browser automation programs, auto click bots, Office Add-ins and other kinds of apps.
 
