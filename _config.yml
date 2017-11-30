@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: 5Tech Center
-email: 5techcenter@outlook.com
+email: sales@5techcenter.com
 description: >- # this means to ignore newlines until "baseurl:"
   We build browser automations, auto click bots,
   Office Add-ins and other Windows apps.
