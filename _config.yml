@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   and other virtual assistant tasks.
   Offering domain registration & hosting services,
   a fully funded reseller program and more.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.5techcenter.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 5TechCenter
 github_username:  5TechCenter
