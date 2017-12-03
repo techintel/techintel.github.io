@@ -19,10 +19,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   We build browser automations, auto click bots,
   Office Add-ins and other Windows apps.
   Doing website & WordPress development, rewriting & redirecting URLs,
-  SEO, Google Apps Scripting for sheets
+  SEO, Google Apps Script to automate sheets
   and other virtual assistant tasks.
   Offering domain registration & hosting services,
-  a fully funded reseller program and more.
+  a reseller program and more.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.5techcenter.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 5TechCenter
