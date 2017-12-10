@@ -4,6 +4,18 @@ layout: default
 
 <div class="home">
 
+		<div>
+				<h1 class="page-heading">Products</h1>
+
+				<ul>
+						{% for product in site.products %}
+								<li>
+										<a href="{{ product.url | relative_url }}">{{ product.title }}</a>
+								</li>
+						{% endfor %}
+				</ul>
+		</div>
+
   <h1 class="page-heading">Posts</h1>
   
   {{ content }}

@@ -17,12 +17,10 @@ title: 5Tech Center
 email: sales@5techcenter.com
 description: >- # this means to ignore newlines until "baseurl:"
   We build browser automations, auto click bots,
-  Office Add-ins and other Windows apps.
-  Doing website & WordPress development, rewriting & redirecting URLs,
-  SEO, Google Apps Script to automate sheets
-  and other virtual assistant tasks.
-  Offering domain registration & hosting services,
-  a reseller program and more.
+  bypassing CAPTCHA, Office Add-ins and other Windows apps.
+  Doing website & WordPress development, URL rewriting & redirection, SEO,
+  Google Apps Script to automate sheets and other virtual assistant tasks.
+  Offering domain registration & hosting services, a reseller program and more.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.5techcenter.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 5TechCenter
@@ -45,3 +43,13 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Tell Jekyll to read in the _products/ collection.
+collections:
+  products:
+    layout: product
+    output: true
+
+# Social network usernames.
+facebook_username: 5TechCenter
+linkedin_username: 5TechCenter

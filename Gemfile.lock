@@ -6,8 +6,6 @@ GEM
     colorator (1.1.0)
     ffi (1.9.18)
     ffi (1.9.18-x64-mingw32)
-    font-awesome-sass (4.7.0)
-      sass (>= 3.2)
     forwardable-extended (2.6.0)
     jekyll (3.6.2)
       addressable (~> 2.4)
@@ -56,7 +54,6 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
-  font-awesome-sass
   jekyll (~> 3.6.2)
   jekyll-feed (~> 0.6)
   tzinfo-data
