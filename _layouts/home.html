@@ -12,7 +12,7 @@ layout: default
 								<li>
 										<a href="{{ product.url | relative_url }}">{{ product.title }}</a>
           <p>{{ product.content | strip_html | truncatewords:30 }}<br />
-          <span style="margin-left: -15px; color: #006621;">{{ site.url | remove_first:'http://' | remove_first:'https://' }}{{ product.url | relative_url }}</span></p>
+          <span style="margin-left: -15px; color: #006621;">{{ site.url | remove_first:'http://' | remove_first:'https://' | remove_first:'www.' }}{{ product.url | relative_url }}</span></p>
 								</li>
 						{% endfor %}
 				</ul>
