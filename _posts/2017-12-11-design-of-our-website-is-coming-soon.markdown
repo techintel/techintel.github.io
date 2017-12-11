@@ -6,7 +6,7 @@ categories: update
 ---
 
 The developer of this site have planned to use the JavaScript library React for building its user interface.  
-He will first master ReactJS and then use it for the design of our site.
+He will first master ReactJS and then use it for the official design of our site.
 
 We're partially using Jekyll *(software)* to generate our static website.  
-Our website will soon be a react application.
+Our website will soon become a react application.
