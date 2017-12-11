@@ -5,7 +5,7 @@ title: Interested in any of our services?
 
 Hello there,
 
-You can see what we are doing by visiting [our About page][about_url].
+Right now, the development of our site is still ongoing, but you can still see the introduction of what we are doing by visiting [our About page][about_url].
 
 If you're interested in any of our services, just contact us using the provided contact info below:
 

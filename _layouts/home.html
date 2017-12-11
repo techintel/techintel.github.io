@@ -11,6 +11,8 @@ layout: default
 						{% for product in site.products %}
 								<li>
 										<a href="{{ product.url | relative_url }}">{{ product.title }}</a>
+          <p>{{ product.content | strip_html | truncatewords:30 }}<br />
+          <span style="margin-left: -15px; color: #006621;">{{ site.url | remove_first:'http://' | remove_first:'https://' }}{{ product.url | relative_url }}</span></p>
 								</li>
 						{% endfor %}
 				</ul>
@@ -29,6 +31,7 @@ layout: default
         <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h2>
+        <p>{{ post.content | strip_html | truncatewords:30 }}</p>
       </li>
     {% endfor %}
   </ul>
