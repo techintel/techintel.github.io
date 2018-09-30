@@ -1,12 +1,13 @@
 <!DOCTYPE HTML>
 <html>
   <head>
-    <title>Retrying...</title>
-    <script>
-      setTimeout( parent.location.reload(), 3000 );
-    </script>
+    <title>Please retry..</title>
   </head>
   <body>
-    <p>Retrying after 3 seconds...</p>
+    <p>Our server is just starting to run our web process type, please refresh the page or click <a href="#" target="_top" id="link">this link</a>.</p>
+
+    <script>
+      document.getElementById("link").href = document.referrer;
+    </script>
   </body>
 </html>
