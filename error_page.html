@@ -4,10 +4,12 @@
     <title>Please retry..</title>
   </head>
   <body>
-    <p>Our server is just starting to run our app's web process type, please refresh this page or click <a href="#" target="_top" id="link">this link</a> after a few seconds.</p>
+    <p>Please click <a href="#" target="_top" id="link">this link</a> if you are not redirected within a few seconds...</p>
 
     <script>
-      document.getElementById("link").href = document.referrer;
+      var link = document.getElementById("link");
+      link.href = document.referrer;
+      setTimeout(() => { link.click(); }, 3000);
     </script>
   </body>
 </html>
