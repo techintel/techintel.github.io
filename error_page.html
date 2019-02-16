@@ -4,12 +4,37 @@
     <title>Please retry..</title>
   </head>
   <body>
-    <p>Please click <a href="#" target="_top" id="link">this link</a> if you are not redirected within a few seconds...</p>
+    <p id="message">Please click <a href="#" target="_top" id="anchor">this link</a> if you are not redirected within a few seconds...</p>
 
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script>
-      var link = document.getElementById("link");
-      link.href = document.referrer;
-      setTimeout(() => { link.click(); }, 3000);
+      var link = document.createElement('link');
+      link.setAttribute('rel', 'canonical');
+      link.setAttribute('href', location.protocol + '//' + location.host + location.pathname);
+      document.head.appendChild(link);
+
+      var anchor = document.getElementById('anchor');
+      anchor.href = document.referrer;
+      var check = function() {
+        UrlExists(anchor.href, status => {
+          console.log('status', status);
+
+          if (status !== 503) anchor.click();
+          else setTimeout(check, 3000);
+        });
+      }
+      check();
+
+      function UrlExists(url, cb) {
+        jQuery.ajax({
+          url:      url,
+          dataType: 'text',
+          type:     'GET',
+          complete: function(xhr) {
+            if (typeof cb === 'function') cb.apply(this, [xhr.status]);
+          }
+        });
+      }
     </script>
   </body>
 </html>
