@@ -19,8 +19,19 @@
         UrlExists(anchor.href, status => {
           console.log('status', status);
 
-          if (status !== 503) anchor.click();
-          else setTimeout(check, 1000);
+          switch (status) {
+            case 503:
+              setTimeout(check, 1000);
+              break;
+
+            case 200:
+            case 0:
+              anchor.click();
+              break;
+
+            default:
+              break;
+          }
         });
       }
       check();
