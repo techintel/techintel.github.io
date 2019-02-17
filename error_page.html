@@ -10,7 +10,7 @@
     <script>
       var link = document.createElement('link');
       link.setAttribute('rel', 'canonical');
-      link.setAttribute('href', location.protocol + '//' + location.host + location.pathname);
+      link.setAttribute('href', document.referrer);
       document.head.appendChild(link);
 
       var anchor = document.getElementById('anchor');
