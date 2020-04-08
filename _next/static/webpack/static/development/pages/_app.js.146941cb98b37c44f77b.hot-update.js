@@ -1,0 +1,41 @@
+webpackHotUpdate("static\\development\\pages\\_app.js",{
+
+/***/ "./pages/_app.js":
+/*!***********************!*\
+  !*** ./pages/_app.js ***!
+  \***********************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _babel_runtime_helpers_extends__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime/helpers/extends */ "./node_modules/@babel/runtime/helpers/extends.js");
+/* harmony import */ var _babel_runtime_helpers_extends__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_helpers_extends__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _babel_runtime_helpers_classCallCheck__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @babel/runtime/helpers/classCallCheck */ "./node_modules/@babel/runtime/helpers/classCallCheck.js");
+/* harmony import */ var _babel_runtime_helpers_classCallCheck__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_helpers_classCallCheck__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var _babel_runtime_helpers_createClass__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @babel/runtime/helpers/createClass */ "./node_modules/@babel/runtime/helpers/createClass.js");
+/* harmony import */ var _babel_runtime_helpers_createClass__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_helpers_createClass__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var _babel_runtime_helpers_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @babel/runtime/helpers/possibleConstructorReturn */ "./node_modules/@babel/runtime/helpers/possibleConstructorReturn.js");
+/* harmony import */ var _babel_runtime_helpers_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_helpers_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var _babel_runtime_helpers_getPrototypeOf__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @babel/runtime/helpers/getPrototypeOf */ "./node_modules/@babel/runtime/helpers/getPrototypeOf.js");
+/* harmony import */ var _babel_runtime_helpers_getPrototypeOf__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_helpers_getPrototypeOf__WEBPACK_IMPORTED_MODULE_4__);
+/* harmony import */ var _babel_runtime_helpers_inherits__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @babel/runtime/helpers/inherits */ "./node_modules/@babel/runtime/helpers/inherits.js");
+/* harmony import */ var _babel_runtime_helpers_inherits__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_helpers_inherits__WEBPACK_IMPORTED_MODULE_5__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_6__);
+/* harmony import */ var react_i18next__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! react-i18next */ "./node_modules/react-i18next/dist/es/index.js");
+/* harmony import */ var next_app__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! next/app */ "./node_modules/next/app.js");
+/* harmony import */ var next_app__WEBPACK_IMPORTED_MODULE_8___default = /*#__PURE__*/__webpack_require__.n(next_app__WEBPACK_IMPORTED_MODULE_8__);
+/* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! next/head */ "./node_modules/next/dist/next-server/lib/head.js");
+/* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(next_head__WEBPACK_IMPORTED_MODULE_9__);
+/* harmony import */ var _material_ui_core_styles__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! @material-ui/core/styles */ "./node_modules/@material-ui/core/esm/styles/index.js");
+/* harmony import */ var _material_ui_core_CssBaseline__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! @material-ui/core/CssBaseline */ "./node_modules/@material-ui/core/esm/CssBaseline/index.js");
+/* harmony import */ var _src_theme__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ../src/theme */ "./src/theme.js");
+/* harmony import */ var _src_apis_i18n__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ../src/apis/i18n */ "./src/apis/i18n.js");
+/* harmony import */ var _components_Web__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ../components/Web */ "./components/Web/index.js");
+var _jsxFileName="C:\\Users\\5ervant\\Documents\\Node.js Projects\\Next Expo Apps\\techintel\\pages\\_app.js";var __jsx=react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement;function _createSuper(Derived){return function(){var Super=_babel_runtime_helpers_getPrototypeOf__WEBPACK_IMPORTED_MODULE_4___default()(Derived),result;if(_isNativeReflectConstruct()){var NewTarget=_babel_runtime_helpers_getPrototypeOf__WEBPACK_IMPORTED_MODULE_4___default()(this).constructor;result=Reflect.construct(Super,arguments,NewTarget);}else{result=Super.apply(this,arguments);}return _babel_runtime_helpers_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_3___default()(this,result);};}function _isNativeReflectConstruct(){if(typeof Reflect==="undefined"||!Reflect.construct)return false;if(Reflect.construct.sham)return false;if(typeof Proxy==="function")return true;try{Date.prototype.toString.call(Reflect.construct(Date,[],function(){}));return true;}catch(e){return false;}}var MyApp=function(_App){_babel_runtime_helpers_inherits__WEBPACK_IMPORTED_MODULE_5___default()(MyApp,_App);var _super=_createSuper(MyApp);function MyApp(){_babel_runtime_helpers_classCallCheck__WEBPACK_IMPORTED_MODULE_1___default()(this,MyApp);return _super.apply(this,arguments);}_babel_runtime_helpers_createClass__WEBPACK_IMPORTED_MODULE_2___default()(MyApp,[{key:"componentDidMount",value:function componentDidMount(){var jssStyles=document.querySelector('#jss-server-side');if(jssStyles){jssStyles.parentElement.removeChild(jssStyles);}}},{key:"render",value:function render(){var _this$props=this.props,Component=_this$props.Component,pageProps=_this$props.pageProps,t=_this$props.t;return __jsx(react__WEBPACK_IMPORTED_MODULE_6___default.a.Fragment,{__self:this,__source:{fileName:_jsxFileName,lineNumber:26,columnNumber:7}},__jsx(next_head__WEBPACK_IMPORTED_MODULE_9___default.a,{__self:this,__source:{fileName:_jsxFileName,lineNumber:27,columnNumber:9}},__jsx("title",{__self:this,__source:{fileName:_jsxFileName,lineNumber:28,columnNumber:11}},t('name')),__jsx("meta",{name:"description",content:t('description'),__self:this,__source:{fileName:_jsxFileName,lineNumber:29,columnNumber:11}}),__jsx("meta",{name:"viewport",content:"minimum-scale=1, initial-scale=1, width=device-width",__self:this,__source:{fileName:_jsxFileName,lineNumber:30,columnNumber:11}}),__jsx("link",{rel:"icon",type:"image/x-icon",href:"/favicon.ico",__self:this,__source:{fileName:_jsxFileName,lineNumber:34,columnNumber:11}})),__jsx(_material_ui_core_styles__WEBPACK_IMPORTED_MODULE_10__["ThemeProvider"],{theme:_src_theme__WEBPACK_IMPORTED_MODULE_12__["default"],__self:this,__source:{fileName:_jsxFileName,lineNumber:36,columnNumber:9}},__jsx(_components_Web__WEBPACK_IMPORTED_MODULE_14__["default"].Layout,{__self:this,__source:{fileName:_jsxFileName,lineNumber:37,columnNumber:11}},__jsx(Component,_babel_runtime_helpers_extends__WEBPACK_IMPORTED_MODULE_0___default()({},pageProps,{__self:this,__source:{fileName:_jsxFileName,lineNumber:38,columnNumber:13}})))));}}]);return MyApp;}(next_app__WEBPACK_IMPORTED_MODULE_8___default.a);/* harmony default export */ __webpack_exports__["default"] = (Object(react_i18next__WEBPACK_IMPORTED_MODULE_7__["withTranslation"])('app')(MyApp));
+
+/***/ })
+
+})
+//# sourceMappingURL=_app.js.146941cb98b37c44f77b.hot-update.js.map
