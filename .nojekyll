@@ -1,0 +1,2 @@
+# ".nojekyll" file is necessary to not lose any client-side functionalities
+# after publishing a static HTML exported Next.js application on GitHub Pages.
