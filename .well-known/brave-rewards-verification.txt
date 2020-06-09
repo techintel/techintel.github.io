@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: techintel.github.io
+Token: 66c2fa542928f779e675ce16e70b616a8741c2969bff896967e4390dc6aaae50
