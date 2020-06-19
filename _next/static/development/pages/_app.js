@@ -8,7 +8,7 @@
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-var _interopRequireDefault=__webpack_require__(/*! @babel/runtime/helpers/interopRequireDefault */ "./node_modules/@babel/runtime/helpers/interopRequireDefault.js");var _expoConstants=_interopRequireDefault(__webpack_require__(/*! expo-constants */ "./node_modules/expo-constants/build/Constants.js"));module.exports={en:{title:"".concat(_expoConstants["default"].manifest.name," Item Displays"),getStarted:"You can request to place your 3D model or label that can be linked to your site on our ".concat(_expoConstants["default"].manifest.name," Item Displays for $80.")}};
+var _interopRequireDefault=__webpack_require__(/*! @babel/runtime/helpers/interopRequireDefault */ "./node_modules/@babel/runtime/helpers/interopRequireDefault.js");var _expoConstants=_interopRequireDefault(__webpack_require__(/*! expo-constants */ "./node_modules/expo-constants/build/Constants.js"));module.exports={en:{title:"".concat(_expoConstants["default"].manifest.name," Item Displays"),getStarted:"You can request to place your 3D model or label that can be linked to your site on our ".concat(_expoConstants["default"].manifest.name," Item Displays for $80."),placeModel:"Place your 3D model/text that's linked to your website on the above ".concat(_expoConstants["default"].manifest.name," Item Displays.")}};
 
 /***/ }),
 
