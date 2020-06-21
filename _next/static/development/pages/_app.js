@@ -18043,7 +18043,7 @@ var _sessionId = uuid_v4__WEBPACK_IMPORTED_MODULE_3___default()();
   },
 
   get manifest() {
-    return {"name":"Techintel","slug":"techintel","description":"All about technology including a developer portfolio, stories, products and services, analysis and facts for your awareness.","extra":{"PUBLIC_URL":"https://techintel.github.io","SPACE_ID":"gdquurxkfsex","ACCESS_TOKEN":"FhCAZchv43ZBtGQGMZhma-PTaVYEwb2yymp0kHIS2pE","CONTENT_TYPES":{"BLOG":"techintelBlog","INFO":"techintelInfo","FORTFOLIO":"techintelFortfolio"}},"privacy":"public","sdkVersion":"36.0.0","platforms":["ios","android","web"],"version":"1.0.2","orientation":"portrait","icon":"./assets/images/icon.png","scheme":"myapp","splash":{"image":"./assets/images/splash.png","resizeMode":"contain","backgroundColor":"#ffffff"},"updates":{"fallbackToCacheTimeout":0},"assetBundlePatterns":["**/*"],"web":{}} || {};
+    return {"name":"Techintel","slug":"techintel","description":"All about technology including a developer portfolio, stories, products and services, analysis and facts for your awareness.","extra":{"PUBLIC_URL":"https://techintel.github.io","SPACE_ID":"gdquurxkfsex","ACCESS_TOKEN":"FhCAZchv43ZBtGQGMZhma-PTaVYEwb2yymp0kHIS2pE","CONTENT_TYPES":{"BLOG":"techintelBlog","INFO":"techintelInfo","FORTFOLIO":"techintelFortfolio"}},"privacy":"public","sdkVersion":"36.0.0","platforms":["ios","android","web"],"version":"1.0.3","orientation":"portrait","icon":"./assets/images/icon.png","scheme":"myapp","splash":{"image":"./assets/images/splash.png","resizeMode":"contain","backgroundColor":"#ffffff"},"updates":{"fallbackToCacheTimeout":0},"assetBundlePatterns":["**/*"],"web":{}} || {};
   },
 
   get experienceUrl() {

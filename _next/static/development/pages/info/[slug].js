@@ -53,7 +53,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
-var _jsxFileName="C:\\Users\\5ervant\\Documents\\Node.js Projects\\Next Expo Apps\\techintel\\components\\Web\\ShareButtons.js";var __jsx=react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;function ShareButtons(_ref){var label=_ref.label;return __jsx("div",{className:"jsx-204323243"+" "+"share-buttons",__source:{fileName:_jsxFileName,lineNumber:3,columnNumber:5}},__jsx("p",{className:"jsx-204323243",__source:{fileName:_jsxFileName,lineNumber:4,columnNumber:7}},label),__jsx("div",{className:"jsx-204323243"+" "+"addthis_inline_share_toolbox",__source:{fileName:_jsxFileName,lineNumber:6,columnNumber:7}}),__jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a,{id:"204323243"},".share-buttons.jsx-204323243{font-family:'Arial',sans-serif;background-color:white;padding:40px 0;text-align:center;}.share-buttons.jsx-204323243>p.jsx-204323243{text-transform:uppercase;font-weight:bold;font-size:17px;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIkM6XFxVc2Vyc1xcNWVydmFudFxcRG9jdW1lbnRzXFxOb2RlLmpzIFByb2plY3RzXFxOZXh0IEV4cG8gQXBwc1xcdGVjaGludGVsXFxjb21wb25lbnRzXFxXZWJcXFNoYXJlQnV0dG9ucy5qcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFPa0IsQUFHMkMsQUFPUCx5QkFDUixNQVBNLFdBUVIsWUFQQSxHQVFqQixZQVBvQixrQkFDcEIiLCJmaWxlIjoiQzpcXFVzZXJzXFw1ZXJ2YW50XFxEb2N1bWVudHNcXE5vZGUuanMgUHJvamVjdHNcXE5leHQgRXhwbyBBcHBzXFx0ZWNoaW50ZWxcXGNvbXBvbmVudHNcXFdlYlxcU2hhcmVCdXR0b25zLmpzIiwic291cmNlc0NvbnRlbnQiOlsiZnVuY3Rpb24gU2hhcmVCdXR0b25zKHsgbGFiZWwgfSkge1xyXG4gIHJldHVybiAoXHJcbiAgICA8ZGl2IGNsYXNzTmFtZT1cInNoYXJlLWJ1dHRvbnNcIj5cclxuICAgICAgPHA+e2xhYmVsfTwvcD5cclxuXHJcbiAgICAgIDxkaXYgY2xhc3NOYW1lPVwiYWRkdGhpc19pbmxpbmVfc2hhcmVfdG9vbGJveFwiPjwvZGl2PlxyXG5cclxuICAgICAgPHN0eWxlIGpzeD57YFxyXG4gICAgICAgIC5zaGFyZS1idXR0b25zIHtcclxuICAgICAgICAgIGZvbnQtZmFtaWx5OiAnQXJpYWwnLCBzYW5zLXNlcmlmO1xyXG4gICAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogd2hpdGU7XHJcbiAgICAgICAgICBwYWRkaW5nOiA0MHB4IDA7XHJcbiAgICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7XHJcbiAgICAgICAgfVxyXG5cclxuICAgICAgICAuc2hhcmUtYnV0dG9ucyA+IHAge1xyXG4gICAgICAgICAgdGV4dC10cmFuc2Zvcm06IHVwcGVyY2FzZTtcclxuICAgICAgICAgIGZvbnQtd2VpZ2h0OiBib2xkO1xyXG4gICAgICAgICAgZm9udC1zaXplOiAxN3B4O1xyXG4gICAgICAgIH1cclxuICAgICAgYH08L3N0eWxlPlxyXG4gICAgPC9kaXY+XHJcbiAgKTtcclxufVxyXG5cclxuZXhwb3J0IGRlZmF1bHQgU2hhcmVCdXR0b25zO1xyXG4iXX0= */\n/*@ sourceURL=C:\\\\Users\\\\5ervant\\\\Documents\\\\Node.js Projects\\\\Next Expo Apps\\\\techintel\\\\components\\\\Web\\\\ShareButtons.js */"));}/* harmony default export */ __webpack_exports__["default"] = (ShareButtons);
+var _jsxFileName="C:\\Users\\5ervant\\Documents\\Node.js Projects\\Next Expo Apps\\techintel\\components\\Web\\ShareButtons.js";var __jsx=react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;function ShareButtons(_ref){var label=_ref.label;react__WEBPACK_IMPORTED_MODULE_1___default.a.useEffect(function(){if(addthis.layers.refresh)addthis.layers.refresh();},[]);return __jsx("div",{className:"jsx-204323243"+" "+"share-buttons",__source:{fileName:_jsxFileName,lineNumber:9,columnNumber:5}},__jsx("p",{className:"jsx-204323243",__source:{fileName:_jsxFileName,lineNumber:10,columnNumber:7}},label),__jsx("div",{className:"jsx-204323243"+" "+"addthis_inline_share_toolbox",__source:{fileName:_jsxFileName,lineNumber:12,columnNumber:7}}),__jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a,{id:"204323243"},".share-buttons.jsx-204323243{font-family:'Arial',sans-serif;background-color:white;padding:40px 0;text-align:center;}.share-buttons.jsx-204323243>p.jsx-204323243{text-transform:uppercase;font-weight:bold;font-size:17px;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIkM6XFxVc2Vyc1xcNWVydmFudFxcRG9jdW1lbnRzXFxOb2RlLmpzIFByb2plY3RzXFxOZXh0IEV4cG8gQXBwc1xcdGVjaGludGVsXFxjb21wb25lbnRzXFxXZWJcXFNoYXJlQnV0dG9ucy5qcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFha0IsQUFHMkMsQUFPUCx5QkFDUixNQVBNLFdBUVIsWUFQQSxHQVFqQixZQVBvQixrQkFDcEIiLCJmaWxlIjoiQzpcXFVzZXJzXFw1ZXJ2YW50XFxEb2N1bWVudHNcXE5vZGUuanMgUHJvamVjdHNcXE5leHQgRXhwbyBBcHBzXFx0ZWNoaW50ZWxcXGNvbXBvbmVudHNcXFdlYlxcU2hhcmVCdXR0b25zLmpzIiwic291cmNlc0NvbnRlbnQiOlsiLy8gRXh0ZXJuYWwgZGVwZW5kZW5jeSBpbmNsdWRlZCBvbiBfZG9jdW1lbnQuanMuXHJcblxyXG5mdW5jdGlvbiBTaGFyZUJ1dHRvbnMoeyBsYWJlbCB9KSB7XHJcbiAgUmVhY3QudXNlRWZmZWN0KCgpID0+IHtcclxuICAgIGlmIChhZGR0aGlzLmxheWVycy5yZWZyZXNoKSBhZGR0aGlzLmxheWVycy5yZWZyZXNoKCk7XHJcbiAgfSwgW10pO1xyXG5cclxuICByZXR1cm4gKFxyXG4gICAgPGRpdiBjbGFzc05hbWU9XCJzaGFyZS1idXR0b25zXCI+XHJcbiAgICAgIDxwPntsYWJlbH08L3A+XHJcblxyXG4gICAgICA8ZGl2IGNsYXNzTmFtZT1cImFkZHRoaXNfaW5saW5lX3NoYXJlX3Rvb2xib3hcIj48L2Rpdj5cclxuXHJcbiAgICAgIDxzdHlsZSBqc3g+e2BcclxuICAgICAgICAuc2hhcmUtYnV0dG9ucyB7XHJcbiAgICAgICAgICBmb250LWZhbWlseTogJ0FyaWFsJywgc2Fucy1zZXJpZjtcclxuICAgICAgICAgIGJhY2tncm91bmQtY29sb3I6IHdoaXRlO1xyXG4gICAgICAgICAgcGFkZGluZzogNDBweCAwO1xyXG4gICAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyO1xyXG4gICAgICAgIH1cclxuXHJcbiAgICAgICAgLnNoYXJlLWJ1dHRvbnMgPiBwIHtcclxuICAgICAgICAgIHRleHQtdHJhbnNmb3JtOiB1cHBlcmNhc2U7XHJcbiAgICAgICAgICBmb250LXdlaWdodDogYm9sZDtcclxuICAgICAgICAgIGZvbnQtc2l6ZTogMTdweDtcclxuICAgICAgICB9XHJcbiAgICAgIGB9PC9zdHlsZT5cclxuICAgIDwvZGl2PlxyXG4gICk7XHJcbn1cclxuXHJcbmV4cG9ydCBkZWZhdWx0IFNoYXJlQnV0dG9ucztcclxuIl19 */\n/*@ sourceURL=C:\\\\Users\\\\5ervant\\\\Documents\\\\Node.js Projects\\\\Next Expo Apps\\\\techintel\\\\components\\\\Web\\\\ShareButtons.js */"));}/* harmony default export */ __webpack_exports__["default"] = (ShareButtons);
 
 /***/ }),
 
@@ -19056,7 +19056,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var qs__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(qs__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var lodash_isPlainObject__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! lodash/isPlainObject */ "./node_modules/lodash/isPlainObject.js");
 /* harmony import */ var lodash_isPlainObject__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(lodash_isPlainObject__WEBPACK_IMPORTED_MODULE_2__);
-/* harmony import */ var os__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! os */ 3);
+/* harmony import */ var os__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! os */ 2);
 /* harmony import */ var os__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(os__WEBPACK_IMPORTED_MODULE_3__);
 
 
@@ -23164,7 +23164,7 @@ var _sessionId = uuid_v4__WEBPACK_IMPORTED_MODULE_3___default()();
   },
 
   get manifest() {
-    return {"name":"Techintel","slug":"techintel","description":"All about technology including a developer portfolio, stories, products and services, analysis and facts for your awareness.","extra":{"PUBLIC_URL":"https://techintel.github.io","SPACE_ID":"gdquurxkfsex","ACCESS_TOKEN":"FhCAZchv43ZBtGQGMZhma-PTaVYEwb2yymp0kHIS2pE","CONTENT_TYPES":{"BLOG":"techintelBlog","INFO":"techintelInfo","FORTFOLIO":"techintelFortfolio"}},"privacy":"public","sdkVersion":"36.0.0","platforms":["ios","android","web"],"version":"1.0.2","orientation":"portrait","icon":"./assets/images/icon.png","scheme":"myapp","splash":{"image":"./assets/images/splash.png","resizeMode":"contain","backgroundColor":"#ffffff"},"updates":{"fallbackToCacheTimeout":0},"assetBundlePatterns":["**/*"],"web":{}} || {};
+    return {"name":"Techintel","slug":"techintel","description":"All about technology including a developer portfolio, stories, products and services, analysis and facts for your awareness.","extra":{"PUBLIC_URL":"https://techintel.github.io","SPACE_ID":"gdquurxkfsex","ACCESS_TOKEN":"FhCAZchv43ZBtGQGMZhma-PTaVYEwb2yymp0kHIS2pE","CONTENT_TYPES":{"BLOG":"techintelBlog","INFO":"techintelInfo","FORTFOLIO":"techintelFortfolio"}},"privacy":"public","sdkVersion":"36.0.0","platforms":["ios","android","web"],"version":"1.0.3","orientation":"portrait","icon":"./assets/images/icon.png","scheme":"myapp","splash":{"image":"./assets/images/splash.png","resizeMode":"contain","backgroundColor":"#ffffff"},"updates":{"fallbackToCacheTimeout":0},"assetBundlePatterns":["**/*"],"web":{}} || {};
   },
 
   get experienceUrl() {
@@ -83843,7 +83843,7 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 Based on Glamor's sheet
 https://github.com/threepointone/glamor/blob/667b480d31b3721a905021b26e1290ce92ca2879/src/sheet.js
 */
-var isProd = typeof process !== 'undefined' && Object({"NODE_ENV":"development","PUBLIC_URL":"","APP_MANIFEST":{"name":"Techintel","slug":"techintel","description":"All about technology including a developer portfolio, stories, products and services, analysis and facts for your awareness.","extra":{"PUBLIC_URL":"https://techintel.github.io","SPACE_ID":"gdquurxkfsex","ACCESS_TOKEN":"FhCAZchv43ZBtGQGMZhma-PTaVYEwb2yymp0kHIS2pE","CONTENT_TYPES":{"BLOG":"techintelBlog","INFO":"techintelInfo","FORTFOLIO":"techintelFortfolio"}},"privacy":"public","sdkVersion":"36.0.0","platforms":["ios","android","web"],"version":"1.0.2","orientation":"portrait","icon":"./assets/images/icon.png","scheme":"myapp","splash":{"image":"./assets/images/splash.png","resizeMode":"contain","backgroundColor":"#ffffff"},"updates":{"fallbackToCacheTimeout":0},"assetBundlePatterns":["**/*"],"web":{}}}) && "development" === 'production';
+var isProd = typeof process !== 'undefined' && Object({"NODE_ENV":"development","PUBLIC_URL":"","APP_MANIFEST":{"name":"Techintel","slug":"techintel","description":"All about technology including a developer portfolio, stories, products and services, analysis and facts for your awareness.","extra":{"PUBLIC_URL":"https://techintel.github.io","SPACE_ID":"gdquurxkfsex","ACCESS_TOKEN":"FhCAZchv43ZBtGQGMZhma-PTaVYEwb2yymp0kHIS2pE","CONTENT_TYPES":{"BLOG":"techintelBlog","INFO":"techintelInfo","FORTFOLIO":"techintelFortfolio"}},"privacy":"public","sdkVersion":"36.0.0","platforms":["ios","android","web"],"version":"1.0.3","orientation":"portrait","icon":"./assets/images/icon.png","scheme":"myapp","splash":{"image":"./assets/images/splash.png","resizeMode":"contain","backgroundColor":"#ffffff"},"updates":{"fallbackToCacheTimeout":0},"assetBundlePatterns":["**/*"],"web":{}}}) && "development" === 'production';
 
 var isString = function isString(o) {
   return Object.prototype.toString.call(o) === '[object String]';
@@ -85680,7 +85680,7 @@ function trimContent(str,maxLength){var trimmedString=str.replace(/(\r\n|\n|\r)/
 
 /***/ }),
 
-/***/ 3:
+/***/ 2:
 /*!********************!*\
   !*** os (ignored) ***!
   \********************/
@@ -85691,7 +85691,7 @@ function trimContent(str,maxLength){var trimmedString=str.replace(/(\r\n|\n|\r)/
 
 /***/ }),
 
-/***/ 4:
+/***/ 3:
 /*!*******************************************************************************************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2Finfo%2F%5Bslug%5D&absolutePagePath=C%3A%5CUsers%5C5ervant%5CDocuments%5CNode.js%20Projects%5CNext%20Expo%20Apps%5Ctechintel%5Cpages%5Cinfo%5C%5Bslug%5D.js&hotRouterUpdates=true ***!
   \*******************************************************************************************************************************************************************************************************************************/
@@ -85714,5 +85714,5 @@ module.exports = dll_1968156b23981153aeb9;
 
 /***/ })
 
-},[[4,"static/runtime/webpack.js"]]]);
+},[[3,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=[slug].js.map
