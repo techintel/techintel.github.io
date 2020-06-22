@@ -19056,7 +19056,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var qs__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(qs__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var lodash_isPlainObject__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! lodash/isPlainObject */ "./node_modules/lodash/isPlainObject.js");
 /* harmony import */ var lodash_isPlainObject__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(lodash_isPlainObject__WEBPACK_IMPORTED_MODULE_2__);
-/* harmony import */ var os__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! os */ 3);
+/* harmony import */ var os__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! os */ 2);
 /* harmony import */ var os__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(os__WEBPACK_IMPORTED_MODULE_3__);
 
 
@@ -85680,7 +85680,7 @@ function trimContent(str,maxLength){var trimmedString=str.replace(/(\r\n|\n|\r)/
 
 /***/ }),
 
-/***/ 2:
+/***/ 1:
 /*!*******************************************************************************************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2Finfo%2F%5Bslug%5D&absolutePagePath=C%3A%5CUsers%5C5ervant%5CDocuments%5CNode.js%20Projects%5CNext%20Expo%20Apps%5Ctechintel%5Cpages%5Cinfo%5C%5Bslug%5D.js&hotRouterUpdates=true ***!
   \*******************************************************************************************************************************************************************************************************************************/
@@ -85692,7 +85692,7 @@ module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2Finfo%2
 
 /***/ }),
 
-/***/ 3:
+/***/ 2:
 /*!********************!*\
   !*** os (ignored) ***!
   \********************/
@@ -85714,5 +85714,5 @@ module.exports = dll_1968156b23981153aeb9;
 
 /***/ })
 
-},[[2,"static/runtime/webpack.js"]]]);
+},[[1,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=[slug].js.map
