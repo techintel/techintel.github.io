@@ -1,4 +1,4 @@
-(window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static\\development\\pages\\info\\[slug].js"],{
+(window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static\\development\\pages\\blog\\[slug].js"],{
 
 /***/ "./components/Web/Footer.js":
 /*!**********************************!*\
@@ -57453,23 +57453,23 @@ var assign=Object.assign.bind(Object);function g(){return assign;}Object.defineP
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Finfo%2F%5Bslug%5D&absolutePagePath=C%3A%5CUsers%5C5ervant%5CDocuments%5CNode.js%20Projects%5CNext%20Expo%20Apps%5Ctechintel%5Cpages%5Cinfo%5C%5Bslug%5D.js&hotRouterUpdates=true!./":
+/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fblog%2F%5Bslug%5D&absolutePagePath=C%3A%5CUsers%5C5ervant%5CDocuments%5CNode.js%20Projects%5CNext%20Expo%20Apps%5Ctechintel%5Cpages%5Cblog%5C%5Bslug%5D.js&hotRouterUpdates=true!./":
 /*!***************************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Finfo%2F%5Bslug%5D&absolutePagePath=C%3A%5CUsers%5C5ervant%5CDocuments%5CNode.js%20Projects%5CNext%20Expo%20Apps%5Ctechintel%5Cpages%5Cinfo%5C%5Bslug%5D.js&hotRouterUpdates=true ***!
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fblog%2F%5Bslug%5D&absolutePagePath=C%3A%5CUsers%5C5ervant%5CDocuments%5CNode.js%20Projects%5CNext%20Expo%20Apps%5Ctechintel%5Cpages%5Cblog%5C%5Bslug%5D.js&hotRouterUpdates=true ***!
   \***************************************************************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 
     (window.__NEXT_P = window.__NEXT_P || []).push([
-      "/info/[slug]",
+      "/blog/[slug]",
       function () {
-        var mod = __webpack_require__(/*! ./pages/info/[slug].js */ "./pages/info/[slug].js");
+        var mod = __webpack_require__(/*! ./pages/blog/[slug].js */ "./pages/blog/[slug].js");
         if (true) {
-          module.hot.accept(/*! ./pages/info/[slug].js */ "./pages/info/[slug].js", function () {
-            if (!next.router.components["/info/[slug]"]) return;
-            var updatedPage = __webpack_require__(/*! ./pages/info/[slug].js */ "./pages/info/[slug].js");
-            next.router.update("/info/[slug]", updatedPage);
+          module.hot.accept(/*! ./pages/blog/[slug].js */ "./pages/blog/[slug].js", function () {
+            if (!next.router.components["/blog/[slug]"]) return;
+            var updatedPage = __webpack_require__(/*! ./pages/blog/[slug].js */ "./pages/blog/[slug].js");
+            next.router.update("/blog/[slug]", updatedPage);
           });
         }
         return mod;
@@ -92322,9 +92322,9 @@ module.exports = {
 
 /***/ }),
 
-/***/ "./pages/info/[slug].js":
+/***/ "./pages/blog/[slug].js":
 /*!******************************!*\
-  !*** ./pages/info/[slug].js ***!
+  !*** ./pages/blog/[slug].js ***!
   \******************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
@@ -92421,14 +92421,14 @@ function trimContent(str,maxLength){var trimmedString=str.replace(/(\r\n|\n|\r)/
 
 /***/ }),
 
-/***/ 4:
+/***/ 3:
 /*!*******************************************************************************************************************************************************************************************************************************!*\
-  !*** multi next-client-pages-loader?page=%2Finfo%2F%5Bslug%5D&absolutePagePath=C%3A%5CUsers%5C5ervant%5CDocuments%5CNode.js%20Projects%5CNext%20Expo%20Apps%5Ctechintel%5Cpages%5Cinfo%5C%5Bslug%5D.js&hotRouterUpdates=true ***!
+  !*** multi next-client-pages-loader?page=%2Fblog%2F%5Bslug%5D&absolutePagePath=C%3A%5CUsers%5C5ervant%5CDocuments%5CNode.js%20Projects%5CNext%20Expo%20Apps%5Ctechintel%5Cpages%5Cblog%5C%5Bslug%5D.js&hotRouterUpdates=true ***!
   \*******************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2Finfo%2F%5Bslug%5D&absolutePagePath=C%3A%5CUsers%5C5ervant%5CDocuments%5CNode.js%20Projects%5CNext%20Expo%20Apps%5Ctechintel%5Cpages%5Cinfo%5C%5Bslug%5D.js&hotRouterUpdates=true! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Finfo%2F%5Bslug%5D&absolutePagePath=C%3A%5CUsers%5C5ervant%5CDocuments%5CNode.js%20Projects%5CNext%20Expo%20Apps%5Ctechintel%5Cpages%5Cinfo%5C%5Bslug%5D.js&hotRouterUpdates=true!./");
+module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2Fblog%2F%5Bslug%5D&absolutePagePath=C%3A%5CUsers%5C5ervant%5CDocuments%5CNode.js%20Projects%5CNext%20Expo%20Apps%5Ctechintel%5Cpages%5Cblog%5C%5Bslug%5D.js&hotRouterUpdates=true! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fblog%2F%5Bslug%5D&absolutePagePath=C%3A%5CUsers%5C5ervant%5CDocuments%5CNode.js%20Projects%5CNext%20Expo%20Apps%5Ctechintel%5Cpages%5Cblog%5C%5Bslug%5D.js&hotRouterUpdates=true!./");
 
 
 /***/ }),
@@ -92444,5 +92444,5 @@ module.exports = dll_1968156b23981153aeb9;
 
 /***/ })
 
-},[[4,"static/runtime/webpack.js"]]]);
+},[[3,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=[slug].js.map
