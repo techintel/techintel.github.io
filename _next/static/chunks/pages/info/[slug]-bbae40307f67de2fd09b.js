@@ -1,0 +1,1 @@
+_N_E=(window.webpackJsonp_N_E=window.webpackJsonp_N_E||[]).push([[18],{Ltqm:function(n,_,o){(window.__NEXT_P=window.__NEXT_P||[]).push(["/info/[slug]",function(){return o("YPOF")}])},YPOF:function(n,_,o){"use strict";o.r(_);var w=o("TWYl");_.default=w.a}},[["Ltqm",0,1,6,3,2,4,5,7,8,9]]]);
